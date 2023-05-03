@@ -1,0 +1,406 @@
+<svg width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 0,0 L 595.28,0 C 595.28,0,595.28,0,595.28,0 L 595.28,131.07 C 595.28,131.07,595.28,131.07,595.28,131.07 L 0,131.07 C 0,131.07,0,131.07,0,131.07 L 0,0 C 0,0,0,0,0,0 Z" fill="#303745" />
+<text x="25" y="48.9375" style="font:bold 25px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Sarah </text>
+<text x="101.42822265625" y="48.9375" style="font:bold 25px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Fielding</text>
+<text x="25" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Mechanical </text>
+<text x="94.3671875" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Engineer </text>
+<text x="150.01708984375" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">with </text>
+<text x="176.7470703125" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">+</text>
+<text x="184.3388671875" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">5 </text>
+<text x="195.1806640625" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Years </text>
+<text x="232.75244140625" y="69.0725" style="font:normal 13px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Experience</text>
+<image x="25" y="95.07" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiM5NzliYTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTUwMi4zIDE5MC44YzMuOS0zLjEgOS43LS4yIDkuNyA0LjdWNDAwYzAgMjYuNS0yMS41IDQ4LTQ4IDQ4SDQ4Yy0yNi41IDAtNDgtMjEuNS00OC00OFYxOTUuNmMwLTUgNS43LTcuOCA5LjctNC43IDIyLjQgMTcuNCA1Mi4xIDM5LjUgMTU0LjEgMTEzLjYgMjEuMSAxNS40IDU2LjcgNDcuOCA5Mi4yIDQ3LjYgMzUuNy4zIDcyLTMyLjggOTIuMy00Ny42IDEwMi03NC4xIDEzMS42LTk2LjMgMTU0LTExMy43ek0yNTYgMzIwYzIzLjIuNCA1Ni42LTI5LjIgNzMuNC00MS40IDEzMi43LTk2LjMgMTQyLjgtMTA0LjcgMTczLjQtMTI4LjcgNS44LTQuNSA5LjItMTEuNSA5LjItMTguOXYtMTljMC0yNi41LTIxLjUtNDgtNDgtNDhINDhDMjEuNSA2NCAwIDg1LjUgMCAxMTJ2MTljMCA3LjQgMy40IDE0LjMgOS4yIDE4LjkgMzAuNiAyMy45IDQwLjcgMzIuNCAxNzMuNCAxMjguNyAxNi44IDEyLjIgNTAuMiA0MS44IDczLjQgNDEuNHoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="39" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">sarah_fielding</text>
+<text x="95.0390625" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">@</text>
+<text x="104.17529296875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">gmail</text>
+<text x="125.68212890625" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">.</text>
+<text x="128.1826171875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">com</text>
+<image x="155.18505859375" y="95.07" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiM5NzliYTIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQ5My40IDI0LjZsLTEwNC0yNGMtMTEuMy0yLjYtMjIuOSAzLjMtMjcuNSAxMy45bC00OCAxMTJjLTQuMiA5LjgtMS40IDIxLjMgNi45IDI4bDYwLjYgNDkuNmMtMzYgNzYuNy05OC45IDE0MC41LTE3Ny4yIDE3Ny4ybC00OS42LTYwLjZjLTYuOC04LjMtMTguMi0xMS4xLTI4LTYuOWwtMTEyIDQ4QzMuOSAzNjYuNS0yIDM3OC4xLjYgMzg5LjRsMjQgMTA0QzI3LjEgNTA0LjIgMzYuNyA1MTIgNDggNTEyYzI1Ni4xIDAgNDY0LTIwNy41IDQ2NC00NjQgMC0xMS4yLTcuNy0yMC45LTE4LjYtMjMuNHoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="169.18505859375" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">+</text>
+<text x="174.44091796875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">44 </text>
+<text x="186.9521484375" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">75678 </text>
+<text x="214.4794921875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">896573</text>
+<image x="255.63671875" y="95.07" width="6.75" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiM5NzliYTIiIHZpZXdCb3g9IjAgMCAzODQgNTEyIiB3aWR0aD0iMzg0IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTE3Mi4yNjggNTAxLjY3QzI2Ljk3IDI5MS4wMzEgMCAyNjkuNDEzIDAgMTkyIDAgODUuOTYxIDg1Ljk2MSAwIDE5MiAwczE5MiA4NS45NjEgMTkyIDE5MmMwIDc3LjQxMy0yNi45NyA5OS4wMzEtMTcyLjI2OCAzMDkuNjctOS41MzUgMTMuNzc0LTI5LjkzIDEzLjc3My0zOS40NjQgMHpNMTkyIDI3MmM0NC4xODMgMCA4MC0zNS44MTcgODAtODBzLTM1LjgxNy04MC04MC04MC04MCAzNS44MTctODAgODAgMzUuODE3IDgwIDgwIDgweiI+PC9wYXRoPjwvc3ZnPg==" image-rendering="optimizeSpeed" />
+<text x="268.51171875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">19 </text>
+<text x="281.02294921875" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Sheldon </text>
+<text x="316.552734375" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">Close</text>
+<text x="339.5625" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">, </text>
+<text x="344.5634765625" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">SE2 </text>
+<text x="364.0751953125" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">6BR </text>
+<text x="384.08349609375" y="102.49499999999999" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#979ba2">London</text>
+<text x="25" y="170.4325" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Profile</text>
+<text x="25" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">I </text>
+<text x="30.556640625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">am </text>
+<text x="47.2265625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="55.56640625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">detail</text>
+<text x="79.47265625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="82.802734375" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">oriented </text>
+<text x="121.71875" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Manufacturing </text>
+<text x="187.8662109375" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineer </text>
+<text x="230.673828125" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="251.2353515625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">5</text>
+<text x="256.796875" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="265.4150390625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">years</text>
+<text x="289.8681640625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">&#8217; </text>
+<text x="294.8681640625" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experience </text>
+<text x="346.5673828125" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="25" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="41.6796875" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">automobile </text>
+<text x="93.37890625" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">industry</text>
+<text x="128.3935546875" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="133.9501953125" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">My </text>
+<text x="150.05859375" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">achievements </text>
+<text x="214.5361328125" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">include </text>
+<text x="249.00390625" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">redesigning </text>
+<text x="303.486328125" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">machine </text>
+<text x="25" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">arrangements </text>
+<text x="89.4775390625" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">department</text>
+<text x="140.0634765625" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="143.3935546875" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">wide </text>
+<text x="166.73828125" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="177.8564453125" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">improve </text>
+<text x="216.201171875" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">efficiency </text>
+<text x="260.6640625" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="274.00390625" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20%</text>
+<text x="294.0185546875" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="299.5751953125" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">I </text>
+<text x="305.1318359375" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">also </text>
+<text x="326.2548828125" y="219.92" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">have </text>
+<text x="25" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">extensive </text>
+<text x="70.0244140625" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">knowledge </text>
+<text x="120.615234375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="131.7333984375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering </text>
+<text x="186.77734375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">standards </text>
+<text x="233.4716796875" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="249.58984375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">8888 </text>
+<text x="274.6142578125" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="294.0771484375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="310.1953125" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">970, </text>
+<text x="332.4365234375" y="232.57" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">through </text>
+<text x="25" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">developing </text>
+<text x="76.15234375" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">advanced </text>
+<text x="122.2998046875" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">hydraulic </text>
+<text x="165.09765625" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems</text>
+<text x="201.767578125" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="207.32421875" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">I </text>
+<text x="212.880859375" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">am </text>
+<text x="229.55078125" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">now </text>
+<text x="250.673828125" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">seeking </text>
+<text x="287.919921875" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="296.259765625" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">senior </text>
+<text x="326.2744140625" y="245.22" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">role </text>
+<text x="25" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">where </text>
+<text x="55.0146484375" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">I </text>
+<text x="60.5712890625" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">can </text>
+<text x="79.47265625" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">leverage </text>
+<text x="120.6103515625" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">my </text>
+<text x="136.71875" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">project </text>
+<text x="169.51171875" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management </text>
+<text x="230.6591796875" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">skills</text>
+<text x="252.32421875" y="257.87" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<path d="M 25,280.945 L 370.28,280.945 C 370.28,280.945,370.28,280.945,370.28,280.945 L 370.28,281.445 C 370.28,281.445,370.28,281.445,370.28,281.445 L 25,281.445 C 25,281.445,25,281.445,25,281.445 L 25,280.945 C 25,280.945,25,280.945,25,280.945 Z" fill="#e2e2e2" />
+<text x="25" y="310.8075" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Employment</text>
+<text x="25" y="334.995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Mechanical </text>
+<text x="81.689453125" y="334.995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineer</text>
+<text x="284.67453125" y="334.995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Feb </text>
+<text x="304.684296875" y="334.995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2018 </text>
+<text x="329.7087109375" y="334.995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="335.817109375" y="334.995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Present</text>
+<text x="25" y="347.645" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Ford</text>
+<text x="45.5615234375" y="347.645" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">, </text>
+<text x="51.1181640625" y="347.645" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Dagenham</text>
+<text x="45" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Responsible </text>
+<text x="102.8125" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">for </text>
+<text x="117.2607421875" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">diagnosing </text>
+<text x="168.4130859375" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">faults </text>
+<text x="195.0927734375" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="214.5556640625" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">completing </text>
+<text x="265.693359375" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">servicing </text>
+<text x="307.9296875" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">on </text>
+<text x="321.8310546875" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="330.1708984375" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">fleet </text>
+<text x="351.8505859375" y="360.29499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<circle cx="35" cy="358.29499999999996" r="2" fill="black"/>
+<text x="45" y="372.94499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">50 </text>
+<text x="58.9013671875" y="372.94499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cars</text>
+<text x="77.79296875" y="372.94499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="45" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Redesigned </text>
+<text x="101.15234375" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">machine </text>
+<text x="141.728515625" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">arrangements </text>
+<text x="206.2060546875" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">department</text>
+<text x="256.7919921875" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="260.1220703125" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">wide </text>
+<text x="283.466796875" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="294.5849609375" y="385.5949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">improve </text>
+<circle cx="35" cy="383.5949999999999" r="2" fill="black"/>
+<text x="45" y="398.2449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">efficiency </text>
+<text x="89.462890625" y="398.2449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="102.802734375" y="398.2449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20%</text>
+<text x="122.8173828125" y="398.2449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="45" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Increased </text>
+<text x="91.6943359375" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">production </text>
+<text x="141.171875" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">quality </text>
+<text x="172.8564453125" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">for </text>
+<text x="187.3046875" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">manufacturing </text>
+<text x="253.4521484375" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="266.7919921875" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">25%</text>
+<text x="286.806640625" y="410.89499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<circle cx="35" cy="408.89499999999987" r="2" fill="black"/>
+<text x="25" y="433.54499999999985" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Mechanical </text>
+<text x="81.689453125" y="433.54499999999985" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineer</text>
+<text x="275.76828125" y="433.54499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Aug </text>
+<text x="296.3395703125" y="433.54499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2015 </text>
+<text x="321.363984375" y="433.54499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="327.4723828125" y="433.54499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Dec </text>
+<text x="348.03390625" y="433.54499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2018</text>
+<text x="25" y="446.1949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">ADAC</text>
+<text x="52.783203125" y="446.1949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">, </text>
+<text x="58.33984375" y="446.1949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">London</text>
+<text x="45" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Designed </text>
+<text x="90.029296875" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">pressure </text>
+<text x="131.7138671875" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">vessels</text>
+<text x="165.05859375" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="170.615234375" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">hydraulic </text>
+<text x="213.4130859375" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems</text>
+<text x="250.0830078125" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="255.6396484375" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">sealing </text>
+<text x="290.107421875" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems </text>
+<text x="329.5556640625" y="458.8449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<circle cx="35" cy="456.8449999999998" r="2" fill="black"/>
+<text x="45" y="471.4949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">chemical </text>
+<text x="87.236328125" y="471.4949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">injection </text>
+<text x="126.7041015625" y="471.4949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems</text>
+<text x="163.3740234375" y="471.4949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="45" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Adhered </text>
+<text x="85.5859375" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="96.7041015625" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">strict </text>
+<text x="120.5908203125" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering </text>
+<text x="175.634765625" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">standards </text>
+<text x="222.3291015625" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">such </text>
+<text x="246.23046875" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">as </text>
+<text x="259.5703125" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="275.6884765625" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">8888 </text>
+<text x="300.712890625" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="320.17578125" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="336.2939453125" y="484.14499999999975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">970.</text>
+<circle cx="35" cy="482.14499999999975" r="2" fill="black"/>
+<text x="45" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Consistently </text>
+<text x="102.24609375" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">delivered </text>
+<text x="145.60546875" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="156.7236328125" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">project </text>
+<text x="189.5166015625" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">needs </text>
+<text x="219.541015625" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">at </text>
+<text x="230.6591796875" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20%</text>
+<text x="250.673828125" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="259.2919921875" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">under </text>
+<text x="287.646484375" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">budget</text>
+<text x="318.232421875" y="496.79499999999973" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<circle cx="35" cy="494.79499999999973" r="2" fill="black"/>
+<text x="25" y="519.4449999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Junior </text>
+<text x="58.3349609375" y="519.4449999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineer</text>
+<text x="280.76828125" y="519.4449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Sep </text>
+<text x="301.3395703125" y="519.4449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2012 </text>
+<text x="326.363984375" y="519.4449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="332.4723828125" y="519.4449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Jul </text>
+<text x="348.03390625" y="519.4449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2015</text>
+<text x="25" y="532.0949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Lightbox</text>
+<text x="62.8076171875" y="532.0949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">, </text>
+<text x="68.3642578125" y="532.0949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Ipswich</text>
+<text x="45" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Planned</text>
+<text x="81.69921875" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="87.255859375" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">designed</text>
+<text x="127.8466796875" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="133.4033203125" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="152.8662109375" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">developed </text>
+<text x="201.796875" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">tools</text>
+<text x="222.919921875" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="228.4765625" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engines </text>
+<text x="266.2841796875" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="285.7470703125" y="544.7449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanical </text>
+<circle cx="35" cy="542.7449999999998" r="2" fill="black"/>
+<text x="45" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">equipment </text>
+<text x="94.4775390625" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="100.5859375" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">resulting </text>
+<text x="141.162109375" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="151.7236328125" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="160.0634765625" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">22% </text>
+<text x="182.8564453125" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">increase </text>
+<text x="223.4326171875" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="233.994140625" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">efficiency</text>
+<text x="275.6787109375" y="557.3949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="45" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Worked </text>
+<text x="82.2314453125" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="102.79296875" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">planning </text>
+<text x="143.3837890625" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="162.8466796875" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">design </text>
+<text x="195.0927734375" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">teams </text>
+<text x="225.1025390625" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="236.220703125" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">drive </text>
+<text x="260.673828125" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">product </text>
+<text x="296.806640625" y="570.0449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">development </text>
+<circle cx="35" cy="568.0449999999997" r="2" fill="black"/>
+<text x="45" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="64.462890625" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">review </text>
+<text x="96.1376953125" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">tooling </text>
+<text x="128.3837890625" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">specifications </text>
+<text x="191.19140625" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">for </text>
+<text x="205.6396484375" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">new </text>
+<text x="226.7626953125" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engines</text>
+<text x="261.7919921875" y="582.6949999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="45" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Developed </text>
+<text x="95.5908203125" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">CAN </text>
+<text x="119.482421875" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="138.9453125" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">LIN </text>
+<text x="157.28515625" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">drivers</text>
+<text x="187.2900390625" y="595.3449999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<circle cx="35" cy="593.3449999999997" r="2" fill="black"/>
+<path d="M 25,618.4199999999996 L 370.28,618.4199999999996 C 370.28,618.4199999999996,370.28,618.4199999999996,370.28,618.4199999999996 L 370.28,618.9199999999996 C 370.28,618.9199999999996,370.28,618.9199999999996,370.28,618.9199999999996 L 25,618.9199999999996 C 25,618.9199999999996,25,618.9199999999996,25,618.9199999999996 L 25,618.4199999999996 C 25,618.4199999999996,25,618.4199999999996,25,618.4199999999996 Z" fill="#e2e2e2" />
+<text x="25" y="648.2824999999996" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Education</text>
+<text x="25" y="672.4699999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Advanced </text>
+<text x="75.5712890625" y="672.4699999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Mechanical </text>
+<text x="132.2607421875" y="672.4699999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineering </text>
+<text x="192.822265625" y="672.4699999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">MSc</text>
+<text x="213.3837890625" y="672.4699999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="25" y="685.1199999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Distinction</text>
+<text x="280.76828125" y="672.4699999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Sep </text>
+<text x="301.3395703125" y="672.4699999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2011 </text>
+<text x="326.363984375" y="672.4699999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="332.4723828125" y="672.4699999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Jul </text>
+<text x="348.03390625" y="672.4699999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2012</text>
+<text x="25" y="697.7699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">University </text>
+<text x="71.6748046875" y="697.7699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">of </text>
+<text x="82.79296875" y="697.7699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Sheffield</text>
+<text x="121.708984375" y="697.7699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">, </text>
+<text x="127.265625" y="697.7699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Sheffield</text>
+<text x="45" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Technical </text>
+<text x="90.576171875" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">communication </text>
+<text x="160.60546875" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">for </text>
+<text x="175.0537109375" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanical </text>
+<text x="228.4130859375" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering</text>
+<text x="280.6787109375" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="286.2353515625" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experiments </text>
+<text x="343.4814453125" y="710.4199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<circle cx="35" cy="708.4199999999996" r="2" fill="black"/>
+<text x="45" y="723.0699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">valid </text>
+<text x="68.3447265625" y="723.0699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">computer </text>
+<text x="112.8076171875" y="723.0699999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">models </text>
+<text x="45" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Strategic </text>
+<text x="87.2412109375" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering </text>
+<text x="142.28515625" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management </text>
+<text x="203.4326171875" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="222.8955078125" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">business </text>
+<text x="265.1416015625" y="735.7199999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">practices</text>
+<circle cx="35" cy="733.7199999999996" r="2" fill="black"/>
+<text x="25" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Mechanical </text>
+<text x="81.689453125" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineering </text>
+<text x="142.2509765625" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BEng</text>
+<text x="168.359375" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="174.4677734375" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">1st </text>
+<text x="191.69921875" y="758.3699999999995" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">class</text>
+<text x="280.76828125" y="758.3699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Sep </text>
+<text x="301.3395703125" y="758.3699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2008 </text>
+<text x="326.363984375" y="758.3699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="332.4723828125" y="758.3699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Jul </text>
+<text x="348.03390625" y="758.3699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2011</text>
+<text x="25" y="771.0199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">University </text>
+<text x="71.6748046875" y="771.0199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">of </text>
+<text x="82.79296875" y="771.0199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Sheffield</text>
+<text x="121.708984375" y="771.0199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">, </text>
+<text x="127.265625" y="771.0199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Sheffield</text>
+<text x="45" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Fundamentals </text>
+<text x="111.1474609375" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="122.265625" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanical </text>
+<text x="175.625" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering</text>
+<text x="227.890625" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="233.447265625" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mathematics </text>
+<text x="292.91015625" y="783.6699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<circle cx="35" cy="781.6699999999995" r="2" fill="black"/>
+<text x="45" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management</text>
+<text x="103.369140625" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="108.92578125" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">applied </text>
+<text x="143.955078125" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">dynamics</text>
+<text x="186.19140625" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="191.748046875" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanics </text>
+<text x="242.32421875" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="253.4423828125" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">fluids</text>
+<text x="276.787109375" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="282.34375" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanics </text>
+<text x="332.919921875" y="796.3199999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="45" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">solids</text>
+<text x="70.56640625" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="76.123046875" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">applied </text>
+<text x="111.15234375" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">thermodynamics</text>
+<text x="184.51171875" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="190.068359375" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanical </text>
+<text x="243.427734375" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">behaviour </text>
+<text x="290.126953125" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="301.2451171875" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">materials </text>
+<text x="344.58984375" y="808.9699999999995" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<path d="M 395.28,156.07 L 395.78,156.07 C 395.78,156.07,395.78,156.07,395.78,156.07 L 395.78,816.8899999999999 C 395.78,816.8899999999999,395.78,816.8899999999999,395.78,816.8899999999999 L 395.28,816.8899999999999 C 395.28,816.8899999999999,395.28,816.8899999999999,395.28,816.8899999999999 L 395.28,156.07 C 395.28,156.07,395.28,156.07,395.28,156.07 Z" fill="#e2e2e2" />
+<text x="420.28" y="170.4325" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Personal </text>
+<text x="483.649140625" y="170.4325" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">details</text>
+<text x="420.28" y="194.61999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">LinkedIn</text>
+<text x="420.28" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">linked</text>
+<text x="446.4079296875" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="449.18625" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">com/in/sarah</text>
+<text x="506.43234375" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="509.762421875" y="207.26999999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">fielding</text>
+<path d="M 420.28,230.345 L 570.28,230.345 C 570.28,230.345,570.28,230.345,570.28,230.345 L 570.28,230.845 C 570.28,230.845,570.28,230.845,570.28,230.845 L 420.28,230.845 C 420.28,230.845,420.28,230.845,420.28,230.845 L 420.28,230.345 C 420.28,230.345,420.28,230.345,420.28,230.345 Z" fill="#e2e2e2" />
+<text x="420.28" y="260.2075" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Professional </text>
+<text x="420.28" y="279.1825" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Affiliations </text>
+<text x="420.28" y="303.37" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Chartered </text>
+<text x="470.2946484375" y="303.37" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engineer </text>
+<text x="515.8610546875" y="303.37" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">CEng</text>
+<text x="420.28" y="316.02" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">The </text>
+<text x="440.289765625" y="316.02" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Engineering </text>
+<text x="496.442109375" y="316.02" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#888888">Council</text>
+<text x="420.28" y="328.66999999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Jul </text>
+<text x="435.8415234375" y="328.66999999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2019 </text>
+<text x="460.8659375" y="328.66999999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="466.9743359375" y="328.66999999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Present</text>
+<path d="M 420.28,351.74499999999995 L 570.28,351.74499999999995 C 570.28,351.74499999999995,570.28,351.74499999999995,570.28,351.74499999999995 L 570.28,352.24499999999995 C 570.28,352.24499999999995,570.28,352.24499999999995,570.28,352.24499999999995 L 420.28,352.24499999999995 C 420.28,352.24499999999995,420.28,352.24499999999995,420.28,352.24499999999995 L 420.28,351.74499999999995 C 420.28,351.74499999999995,420.28,351.74499999999995,420.28,351.74499999999995 Z" fill="#e2e2e2" />
+<text x="420.28" y="381.60749999999996" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#303745">Skills </text>
+<path d="M 420.28,398.79499999999996 L 427.78,398.79499999999996 C 427.78,398.79499999999996,427.78,398.79499999999996,427.78,398.79499999999996 L 427.78,406.29499999999996 C 427.78,406.29499999999996,427.78,406.29499999999996,427.78,406.29499999999996 L 420.28,406.29499999999996 C 420.28,406.29499999999996,420.28,406.29499999999996,420.28,406.29499999999996 L 420.28,398.79499999999996 C 420.28,398.79499999999996,420.28,398.79499999999996,420.28,398.79499999999996 Z" fill="#303745" />
+<text x="432.78" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Software</text>
+<text x="472.242890625" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="477.79953125" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Proficiency </text>
+<text x="529.4841015625" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">using </text>
+<text x="556.168671875" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">3</text>
+<text x="561.7301953125" y="405.79499999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="432.78" y="418.44499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">D </text>
+<text x="442.78" y="418.44499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">CAD </text>
+<text x="466.6716015625" y="418.44499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">modelling </text>
+<text x="512.25265625" y="418.44499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">software</text>
+<text x="550.045625" y="418.44499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">; </text>
+<text x="432.78" y="431.0949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">familiarity </text>
+<text x="477.7848828125" y="431.0949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="498.34640625" y="431.0949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">FEA</text>
+<text x="517.7946484375" y="431.0949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<path d="M 420.28,446.7449999999999 L 427.78,446.7449999999999 C 427.78,446.7449999999999,427.78,446.7449999999999,427.78,446.7449999999999 L 427.78,454.2449999999999 C 427.78,454.2449999999999,427.78,454.2449999999999,427.78,454.2449999999999 L 420.28,454.2449999999999 C 420.28,454.2449999999999,420.28,454.2449999999999,420.28,454.2449999999999 L 420.28,446.7449999999999 C 420.28,446.7449999999999,420.28,446.7449999999999,420.28,446.7449999999999 Z" fill="#303745" />
+<text x="432.78" y="453.7449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Knowledge </text>
+<text x="485.0407421875" y="453.7449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="496.15890625" y="453.7449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engineering </text>
+<text x="432.78" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">standards</text>
+<text x="476.696015625" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="482.25265625" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="498.3708203125" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">8888 </text>
+<text x="523.395234375" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="542.858125" y="466.39499999999987" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">BS </text>
+<text x="432.78" y="479.04499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">970.</text>
+<path d="M 420.28,494.6949999999998 L 427.78,494.6949999999998 C 427.78,494.6949999999998,427.78,494.6949999999998,427.78,494.6949999999998 L 427.78,502.1949999999998 C 427.78,502.1949999999998,427.78,502.1949999999998,427.78,502.1949999999998 L 420.28,502.1949999999998 C 420.28,502.1949999999998,420.28,502.1949999999998,420.28,502.1949999999998 L 420.28,494.6949999999998 C 420.28,494.6949999999998,420.28,494.6949999999998,420.28,494.6949999999998 Z" fill="#303745" />
+<text x="432.78" y="501.6949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Efficiency</text>
+<text x="475.57296875" y="501.6949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="481.129609375" y="501.6949999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Reviewing </text>
+<text x="432.78" y="514.3449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mechanical </text>
+<text x="486.139375" y="514.3449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">processes </text>
+<text x="534.4938671875" y="514.3449999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="432.78" y="526.9949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">tools </text>
+<text x="456.6813671875" y="526.9949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="467.79953125" y="526.9949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">identify </text>
+<text x="502.262421875" y="526.9949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">wastage </text>
+<text x="542.2868359375" y="526.9949999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="432.78" y="539.6449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">reduce </text>
+<text x="466.1344921875" y="539.6449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">defects</text>
+<text x="498.375703125" y="539.6449999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+</svg>

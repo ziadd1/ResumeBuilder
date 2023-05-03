@@ -1,0 +1,109 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(153, 147, 147);
+    
+  }
+  
+  .navbar-logo {
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    
+  }
+  
+  .navbar-logo-highlight {
+    color: rgb(246, 136, 46);
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-links li {
+    margin-right: 1rem;
+  }
+  
+  .navbar-links a {
+    
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.5rem;
+ 
+    margin-left: 10px;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+    
+  }
+  .navbar-logo:hover {
+    color: rgb(246, 136, 46);
+
+    
+  }
+  .navbar-logo-highlight:hover .navbar-logo {
+    color: rgb(246, 136, 46);
+
+
+  }
+  .navbar-logo:hover .navbar-logo-highlight{
+
+    color: rgb(0, 0, 0);
+  }
+  .navbar-logo-highlight:hover {
+    color: rgb(0, 0, 0);
+
+    
+  }
+  .navbar-logo:focus{
+
+    background-color: rgb(153, 147, 147);
+  }
+
+  .email{
+
+    color: rgb(0, 0, 0);
+    margin-top: 15px;
+    margin-right: 10px;
+
+  }
+
+  .logOut{
+
+    margin-right: 20px;
+  }
+
+  .logout-btn {
+    width: 80px;
+    height: 50px;
+    font-size: 14px;
+    padding: 5px;
+
+  }
+  .login:focus{
+
+
+    
+
+      background-color: rgb(153, 147, 147);
+    
+  
+  }
+  
+  .Signup:focus{
+
+
+    
+
+    background-color: rgb(153, 147, 147);
+  
+
+}
+
+ 

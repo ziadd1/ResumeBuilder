@@ -1,0 +1,480 @@
+
+/* 
+Add some basic styles to make the CV look good */
+
+
+
+.page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+
+  background-color: rgb(132, 128, 128);
+
+
+}
+form {
+  margin: 50px;
+  
+}
+
+.divider {
+  position: relative;
+}
+.divider::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 100%;
+  border-left: 1px solid rgb(132, 126, 126);
+  transform: translateX(-50%);
+  width: 1px;
+  z-index: 1;
+}
+.divider h2 {
+  margin-top: 0;
+  position: relative;
+  z-index: 2;
+}
+
+
+.cv {
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 1px solid #ccc;
+  border-radius: 83px;
+  padding: 20px;
+}
+.cv[template="template1"] {
+  background-color: rgba(255, 255, 255);
+}
+
+/* Styles for template 2 */
+.cv[template="template2"] {
+  background-color: rgb(0, 221, 225);
+}
+
+/* Styles for template 3 */
+.cv[template="template3"] {
+  background-color: #db5b00;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 640px;
+  margin: auto;
+  padding: 30px;
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+
+
+/* Add some specific styles for each section */
+.contact, .education, .profile, .employment, .skills, .references {
+  margin-bottom: 30px;
+  
+  }
+  
+
+.section span{
+
+}
+
+
+  /* .contact ul {
+    
+    margin-bottom: 10px;
+ 
+  } */
+  
+  
+  /* .contact li {
+  display: inline-block;
+  margin-right: 10px;
+  } */
+  
+  .contact li strong {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  }
+  .contact li span {
+    margin-right: 10px;
+    background-color: #eee;
+    padding: 5px;
+    border-radius: 5px;
+    height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+  .education li strong {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  
+  }
+  .education li span {
+
+    
+    margin-right: 20px;
+   
+    display: block;
+   
+    margin-bottom: 5px;
+    background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  
+  height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+  .profile p {
+  margin: 0;
+  
+  }
+  .profile li span  {
+    margin-right: 20px;
+   
+    display: block;
+    
+    margin-bottom: 5px;
+    background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  
+  height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+ 
+  
+  /* .employment li {
+  display: inline-block;
+  margin-right: 10px;
+  background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  } */
+
+  .employment li span {
+
+    
+    margin-right: 20px;
+   
+    display: block;
+   
+    margin-bottom: 5px;
+    background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  
+  height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+  .employment li strong {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+
+  }
+  
+  /* .skills li {
+
+  background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  } */
+  
+  
+  .skills li span{
+    margin-right: 20px;
+   
+    display: block;
+   
+    margin-bottom: 5px;
+    background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  
+  height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+  
+  /* .references li strong {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  } */
+  .references li span {
+    margin-right: 20px;
+   
+    display: block;
+  
+    margin-bottom: 5px;
+    background-color: #eee;
+  padding: 5px;
+  border-radius: 5px;
+  
+  height: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    }
+  
+  /* Add some styles for smaller screens */
+  @media (max-width: 768px) {
+  .container {
+  padding: 20px;
+  }
+  
+  .contact li, .employment li {
+  display: block;
+  margin-right: 0;
+  }
+  
+ 
+  
+
+  }
+
+/* 
+/* Set body font family to sans-serif */
+/* body {
+  font-family: sans-serif;
+} */
+/* 
+Style the header section */
+/* header {
+  text-align: center;
+  background-color: #007bff;
+  color: #fff;
+  padding: 2rem;
+} */
+
+/* Style the header h1 element */
+/* header h1 {
+  margin-bottom: 0;
+} */
+
+/* Style the header p elements */
+/* header p {
+  text-align: center;
+  margin-bottom: 0.5rem;
+} */
+
+/* Style the section headings
+section h2 {
+  
+  margin: 2rem 0 1rem;
+/* } */
+
+/* Style the education section list */
+/* #education  {
+  
+  margin-bottom: 1rem;
+} */ 
+
+/* Style the employment history section list */
+/* #EmploymentHistory {
+  margin-bottom: 1rem;
+}
+
+/* Style the skills section list */
+/* #skills {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  margin-right: 0.5rem;
+} */ 
+
+/* Style the references section list */
+/* #references  {
+  margin-bottom: 1rem;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.template1 .header {
+    background-color: #0077b5;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  .template1 .body {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    padding: 1rem;
+  }
+  
+  .template1 .body h1 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .template1 .body p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .template1 .footer {
+    background-color: #0077b5;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  
+  /* CSS for Template 2 */
+  
+  .template2 .body {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    padding: 1rem;
+  }
+  
+  .template2 .body h1 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .template2 .body p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .template2 .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  /* Add more CSS for other templates here as needed */
+
+
+
+
+
+
+
+
+
+
+
+
+#template-container {
+    margin: 50px auto;
+    width: 80%;
+    max-width: 800px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    color: #333;
+  }
+  
+  /* Style the CV sections */
+  .cv-header {
+    margin-bottom: 50px;
+  }
+  
+  .cv-name {
+    font-size: 36px;
+    margin: 0;
+  }
+  .cv-email {
+    font-size: 10px;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+
+  .cv-title {
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+ 
+  .cv-phone {
+    margin-bottom: 50px;
+  }
+  
+  .cv-profile {
+    margin-bottom: 30px;
+  }
+  
+  .cv-education {
+    font-size: 24px;
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .cv-EmploymentHistory{
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .cv-skills {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  .cv-references {
+    margin-bottom: 10px;
+  }
+   

@@ -1,0 +1,30 @@
+
+  
+  .Home-btn, .Rec-btn {
+    font-size: 24px;
+    padding: 12px 24px;
+
+    margin-right: 20px;
+    margin-top: 200px;
+
+    
+  }
+
+  .Home-btn{
+
+
+    margin-left: 570px;
+
+
+  }
+  
+  .Home {
+    margin-right: 16px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
