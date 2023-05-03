@@ -1,0 +1,70 @@
+
+const mongoose= require('mongoose')
+
+const Schema = mongoose.Schema
+
+const CvSchema = new Schema ({
+     userId :{
+         type:String,
+         required:true
+    }
+  ,Name :{
+        type:String,
+        required:true
+    }
+     ,phone :{
+        type:String,
+        required:true
+    }
+     ,email :{
+        type:String,
+        required:true
+    }
+
+    ,education :{
+        type:String,
+        required:true
+    },
+       references :{
+        type:String,
+        required:true
+    },
+       profile :{
+        type:String,
+        required:true
+    },
+       skills :{
+        type:String,
+        required:true
+    },
+       EmploymentHistory :{
+        type:String,
+        required:true
+    },
+     template :{
+        type:String,
+        required:true
+    },
+    profilePicture: {
+         type: String
+        
+        
+        },
+
+       date :{
+        type:Date,
+        default:Date.now
+    },
+
+   
+
+    },{timestamps: true})
+
+    CvSchema.index({ references: 'text', profile: 'text', education: 'text' 
+    ,skills: 'text', EmploymentHistory: 'text' });
+
+
+    module.exports = mongoose.model('CV',CvSchema)
+
+
+    

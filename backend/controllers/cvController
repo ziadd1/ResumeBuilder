@@ -1,0 +1,339 @@
+const Cv= require('../models/CvModel')
+const mongoose = require("mongoose")
+const multer = require('multer')
+const sharp = require('sharp')
+const fs = require('fs')
+const jwt = require('jsonwebtoken')
+//get all Cvs
+
+const getCvs = async (req,res)=> {
+  console.log('Cv Get All');
+  const cv = await Cv.find().sort({createdAt: -1});
+res.status(200).json(cv);
+}
+
+
+//update the pic
+
+const uploadImage = async (req, res) => {
+  const {resumeId} = req.params;
+  const {profilePicture} = req.file.filename;
+
+  try {
+    // Find resume by id
+    let resume = await Cv.findOne({_id: resumeId});
+
+    if (!resume) {
+      return res.status(404).json({msg: 'Resume not found'});
+    }
+
+   
+
+    // Update pic field
+    resume.profilePicture = profilePicture;
+
+    // Save changes to resume
+    await resume.save();
+
+    // Return success response
+    res.json({resume});
+  } catch (err) {
+    console.error(err.message);
+    res.status(500).send('Server error');
+  }
+};
+
+
+
+
+//crete new CV
+const createCv = async(req,res)=>{
+  const { userId } = req.params;
+    const {Name,phone,email,education,references,profile,skills,EmploymentHistory,template} = req.body;
+  
+    try{
+
+      let profilePicture = null;
+      if (req.file) {
+        // if an image was uploaded, store the URL in the CV object
+        profilePicture = req.file.path;
+      }
+// create new CV
+
+      const CV= await  Cv.create( {userId ,Name,phone,email,education,references,profile,skills,EmploymentHistory,template ,profilePicture})
+   
+         res.status(200).json(CV)
+       } 
+         catch(error){
+         res.status(400).json({error: error.message})
+          }
+        } 
+    
+
+// delete CV
+        const deleteResume = async (req, res, next) => {
+
+
+
+          try {
+            const { resumeId } = req.params;
+            const resume = await Cv.findById(resumeId);
+        
+            if (!resume) {
+              return res.status(404).json({ msg: 'Resume not found' });
+            }
+        
+           
+        
+            await Cv.findByIdAndDelete(resumeId);
+            res.json({ msg: 'Resume deleted successfully' });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+        //   try {
+        //     const { resumeId } = req.params;
+        //     const resume = await Cv.findByIdAndDelete(resumeId);
+        //     if (!resume) {
+        //       return res.status(404).json({ msg: 'Resume not found' });
+        //     }
+        //     res.json({ msg: 'Resume deleted successfully'});
+        //   } catch (err) {
+        //     console.error(err.message);
+        //     res.status(500).send('Server error');
+        //   }
+        // };
+
+
+
+        // edit education
+        
+        const updateResumeEducation = async (req, res) => {
+          const {resumeId} = req.params;
+          const {education} = req.body;
+        
+          try {
+            // Find resume by id
+            let resume = await Cv.findOne({_id: resumeId});
+        
+            if (!resume) {
+              return res.status(404).json({msg: 'Resume not found'});
+            }
+        
+            // Check if current user created this resume
+            if (resume.userId.toString() !== req.body.userId) {
+              return res.status(401).json({msg: 'Unauthorized access'});
+            }
+        
+            // Update education field
+            resume.education = education;
+        
+            // Save changes to resume
+            await resume.save();
+        
+            // Return success response
+            res.json({resume});
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+
+
+        // edit references
+        
+        const updateResumeReferences = async (req, res) => {
+          const {resumeId} = req.params;
+          const {ref} = req.body;
+        
+          try {
+            // Find resume by id
+            let resume = await Cv.findOne({_id: resumeId});
+        
+            if (!resume) {
+              return res.status(404).json({msg: 'Resume not found'});
+            }
+        
+            // Check if current user created this resume
+            if (resume.userId.toString() !== req.body.userId) {
+              return res.status(401).json({msg: 'Unauthorized access'});
+            }
+        
+            // Update refernces field
+            resume.references = ref;
+        
+            // Save changes to resume
+            await resume.save();
+        
+            // Return success response
+            res.json({resume});
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+        
+        
+        // edit profile
+        
+        const updateResumeProfile = async (req, res) => {
+          const {resumeId} = req.params;
+          const {profile} = req.body;
+        
+          try {
+            // Find resume by id
+            let resume = await Cv.findOne({_id: resumeId});
+        
+            if (!resume) {
+              return res.status(404).json({msg: 'Resume not found'});
+            }
+        
+            // Check if current user created this resume
+            if (resume.userId.toString() !== req.body.userId) {
+              return res.status(401).json({msg: 'Unauthorized access'});
+            }
+        
+            // Update refernces field
+            resume.profile = profile;
+        
+            // Save changes to resume
+            await resume.save();
+        
+            // Return success response
+            res.json({resume});
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+    
+         // edit skills
+        
+         const updateResumeSkills = async (req, res) => {
+          const {resumeId} = req.params;
+          const {skills} = req.body;
+        
+          try {
+            // Find resume by id
+            let resume = await Cv.findOne({_id: resumeId});
+        
+            if (!resume) {
+              return res.status(404).json({msg: 'Resume not found'});
+            }
+        
+            // Check if current user created this resume
+            if (resume.userId.toString() !== req.body.userId) {
+              return res.status(401).json({msg: 'Unauthorized access'});
+            }
+        
+            // Update refernces field
+            resume.skills = skills;
+        
+            // Save changes to resume
+            await resume.save();
+        
+            // Return success response
+            res.json({resume});
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+
+         // edit EmploymentHistory
+        
+         const updateResumeEmploymentHistory = async (req, res) => {
+          const {resumeId} = req.params;
+          const {Emp} = req.body;
+        
+          try {
+            // Find resume by id
+            let resume = await Cv.findOne({_id: resumeId});
+        
+            if (!resume) {
+              return res.status(404).json({msg: 'Resume not found'});
+            }
+        
+            // Check if current user created this resume
+            if (resume.userId.toString() !== req.body.userId) {
+              return res.status(401).json({msg: 'Unauthorized access'});
+            }
+        
+            // Update refernces field
+            resume.EmploymentHistory = Emp;
+        
+            // Save changes to resume
+            await resume.save();
+        
+            // Return success response
+            res.json({resume});
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+    
+
+// Search in Resumes
+        const searchResumes = async (req, res, next) => {
+          try {
+            const { query } = req.query;
+            const resumes = await Cv.find({ $text: { $search: query } });
+            res.json({ resumes });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+
+        //Search Resumes by UserID
+        const getResumesByUserId = async (req, res, next) => {
+          try {
+            let { userId } = req.params;
+            if (!userId.startsWith('userId=')) {
+              userId = `:userId=${userId}`; // Add the "userId=" prefix if it's not already present
+            }
+            console.log(userId)
+            const resumes = await Cv.find({ userId: userId });
+            
+            res.json({ resumes });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+
+   //Search Resumes by CVID
+   const getResumesByCvId = async (req, res, next) => {
+    try {
+      const { CvId } = req.params;
+      const resume = await Cv.find({ _id: CvId });
+      res.json( resume );
+    } catch (err) {
+      console.error(err.message);
+      res.status(500).send('Server error');
+    }
+  };
+
+
+module.exports= {
+   
+    getCvs,
+    createCv,
+    updateResumeEducation,
+    updateResumeReferences,
+    updateResumeProfile,
+    updateResumeSkills,
+    updateResumeEmploymentHistory,
+    deleteResume,
+    searchResumes,
+    getResumesByUserId,
+    getResumesByCvId,
+    uploadImage
+}

@@ -1,0 +1,86 @@
+const express = require('express')
+const Cv= require('../models/CvModel')
+
+const cvController= require('../controllers/cvController')
+
+
+const multer = require('multer')
+const sharp = require('sharp')
+const fs = require('fs')
+const path = require('path')
+
+
+
+const {
+    
+    getCvs,
+    createCv,
+    updateResumeEducation,
+    updateResumeReferences,
+    updateResumeProfile,
+    updateResumeSkills,
+    updateResumeEmploymentHistory,
+    deleteResume,
+    searchResumes,
+    getResumesByUserId,
+    getResumesByCvId,
+    uploadImage,
+    
+    
+}= require("../controllers/cvController")
+
+const requireAuth = require('../middleware/requireAuth')
+
+const router = express.Router()
+
+// require auth for all cv routes
+router.use(requireAuth)
+
+
+// Set up multer storage options
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, path.join(__dirname, '../../uploads'));
+  },
+  filename: (req, file, cb) => {
+    const ext = file.originalname.split('.').pop();
+    cb(null, `profilePicture-${Date.now()}.${ext}`);
+  },
+});
+
+// Set up multer upload options
+const upload = multer({ storage });
+
+
+
+router.post('/uploadImage/:resumeId', upload.single('profilePicture'),uploadImage)
+
+router.get('/getCvs',getCvs)
+
+router.get('/searchResumes',searchResumes)
+
+router.get('/searchResumesByID/:userId',getResumesByUserId)
+
+router.get('/getResumesByCvId/:CvId',getResumesByCvId)
+
+router.delete('/deleteResume/:resumeId',deleteResume)
+
+router.post('/createCv/:userId',upload.single('profilePicture'),createCv)
+
+router.put('/update-resumeEdu/:resumeId', updateResumeEducation)
+
+
+router.put('/update-resumeRef/:resumeId', updateResumeReferences)
+
+
+router.put('/update-resumeProf/:resumeId', updateResumeProfile)
+
+router.put('/update-resumeSkills/:resumeId', updateResumeSkills)
+
+
+router.put('/update-resumeEmployment/:resumeId', updateResumeEmploymentHistory)
+
+
+
+
+module.exports= router

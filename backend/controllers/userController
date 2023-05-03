@@ -1,0 +1,158 @@
+const User= require('../models/UserModel')
+const mongoose = require("mongoose")
+const jwt = require('jsonwebtoken')
+const Cv= require('../models/CvModel')
+
+
+
+const createToken = (_id) => {
+  return jwt.sign({_id}, process.env.SECRET, { expiresIn: '3d' })
+}
+
+
+        //Search Resumes by UserID
+        const getResumesByUserId = async (req, res, next) => {
+          try {
+            const { userId } = req.params;
+            const resumes = await Cv.find({ userId: userId });
+            res.json({ resumes });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+
+
+
+// login a user
+const loginUser = async (req, res) => {
+  const {email, password} = req.body
+
+  try {
+    const user = await User.login(email, password)
+
+    // create a token
+    const token = createToken(user._id)
+    const user_id=user._id;
+
+    res.status(200).json({email, token,user_id})
+  } catch (error) {
+    res.status(400).json({error: error.message})
+  }
+}
+
+
+
+
+
+// signup a user
+const signupUser = async (req, res) => {
+  const {username,email, password} = req.body
+
+  try {
+
+    const user = await User.signup(username,email, password)
+
+
+    // create a token
+    const token = createToken(user._id)
+
+    res.status(200).json({email, token})
+
+  } catch (error) {
+    res.status(400).json({error: error.message})
+  }
+}
+
+
+
+
+//get all users
+
+const getUsers = async (req,res)=> {
+  console.log('Cv Get All');
+  const user = await User.find().sort({createdAt: -1});
+res.status(200).json(user);
+}
+
+
+//crete new User
+const createUser = async(req,res)=>{
+  
+    const {username,email,password,UserType} = req.body;
+  
+    try{
+//check if user already exists
+
+    let user = await User.findOne({email});
+
+if (user){
+return res.status(400).json({msg: "User already exists"})
+}
+
+// create new user
+
+      const user1= await  User.create( {username,email,password,UserType})
+   
+         res.status(200).json(user1)
+       } 
+         catch(error){
+         res.status(400).json({error: error.message})
+          }
+  
+          
+    
+  
+        } 
+    
+
+// get all users
+        const getAllUsers = async (req, res, next) => {
+          try {
+            const users = await User.find({
+              $or: [
+                { UserType: 'user' },
+              { UserType: 'User' }
+            ]
+          })
+
+            res.json({ users });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+        
+
+
+
+// delete User 
+        const deleteUser = async (req, res, next) => {
+          try {
+            const { userId } = req.params;
+            const user = await User.findById(userId);
+        
+            if (!user) {
+              return res.status(404).json({ msg: 'User not found' });
+            }
+        
+           await  User.findByIdAndDelete(userId);
+            res.json({ msg: 'User deleted successfully' });
+          } catch (err) {
+            console.error(err.message);
+            res.status(500).send('Server error');
+          }
+        };
+
+module.exports= {
+  loginUser,
+  signupUser,
+    createUser,
+    getUsers,
+    getAllUsers,
+    // getAllRecruiters,
+    deleteUser,
+    getResumesByUserId
+
+}

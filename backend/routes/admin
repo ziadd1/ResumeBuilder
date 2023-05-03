@@ -1,0 +1,43 @@
+const express = require('express')
+const Admin= require('../models/AdminModel')
+const Recruiter= require('../models/RecruiterModel')
+const router = express.Router()
+
+const {
+   createRec
+    ,createAdmin,
+    deleteRecruiter,
+    getRecs,
+    CreateRecruiterr,
+    loginAdmin,
+    CreateAdmin1
+
+
+    
+    
+    
+}= require("../controllers/adminController")
+
+
+// create admin
+router.post('/CreateAdmin',CreateAdmin1)
+
+
+
+
+//login
+router.post('/loginAdmin',loginAdmin)
+
+// create recruiter
+router.post('/CreateRecruiterr',CreateRecruiterr)
+
+router.get('/getRecs',getRecs)
+router.post('/createRec',createRec)
+
+
+
+router.post('/createAdmin',createAdmin)
+router.delete('/deleteRecruiter/:RecId',deleteRecruiter)
+
+
+module.exports= router

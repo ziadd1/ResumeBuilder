@@ -1,0 +1,28 @@
+const express = require('express')
+const Recruiter= require('../models/RecruiterModel')
+const router = express.Router()
+
+const {
+    
+    loginRec,
+    getCvs,
+    searchResumes,
+    getResumesByUserId
+    
+    
+    
+}= require("../controllers/recruiterController")
+
+
+
+
+// login route
+router.post('/login', loginRec)
+
+router.get('/getCvs',getCvs)
+
+router.get('/searchResumes',searchResumes)
+
+router.get('/searchResumesByID/:userId',getResumesByUserId)
+
+module.exports= router
